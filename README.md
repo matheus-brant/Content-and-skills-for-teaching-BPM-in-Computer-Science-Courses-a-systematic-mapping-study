@@ -29,8 +29,9 @@ The SLR planning included the specification of the following Research Questions:
 To ensure transparency and replicability, we developed a data collection form and a spreadsheet synthesizing information from primary studies. We adopted quality criteria and scores, facilitating the synthesis of results. The color legend indicates approval or rejection at each stage of the process.
 
 ## Repository Content
-1. Spreadsheet with the SLR planning.
+1. Spreadsheet with the research protocol.
 2. Spreadsheet of primary studies, qualified articles, data collection form, tables, and graphs with data synthesis.
 3. List of articles, books, and documents and qualified articles used as references.
+4. Complete study article in Portuguese and English.
 
 For replicability, we included [links](#) where the data is available, promoting transparency in the research.
