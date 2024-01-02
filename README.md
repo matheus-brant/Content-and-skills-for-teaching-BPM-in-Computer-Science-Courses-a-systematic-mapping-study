@@ -18,7 +18,7 @@ The SLR followed the guidelines established by Kitchenham and Charters (2007), a
 ## Research Questions
 The SLR planning included the specification of the following Research Questions:
 
-- **MRQ: What are the contents and competencies needed to promote BPM teaching?**
+- **MRQ: What are the contents and skills needed to promote BPM teaching?**
   - **SRQ1:** What are the main contents covered in BPM teaching?
   - **SRQ2:** What are the main competencies developed in BPM teaching?
   - **SRQ3:** What are the teaching methods to convey BPM knowledge?
